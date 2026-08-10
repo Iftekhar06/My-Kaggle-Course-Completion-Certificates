@@ -1,9 +1,9 @@
 # My-Kaggle-Course-Completion-Certificates
 A curated showcase of my completed Kaggle engineering and data science courses, featuring hands-on logic models, analytical implementations, and verified completion credentials.
 
-## Course Certificate Links
+# 🔗 Courses Details & Certification Links
 
-### 🐍 Kaggle – Intro to Programming
+# Kaggle – Intro to Programming
 
 Successfully completed Kaggle's Intro to Programming course, building a solid foundation in Python programming through practical coding exercises and real-world mini-projects.
 
